@@ -1,0 +1,1 @@
+idleSprite = [pygame.image.load("hero/idle/I1.png"),pygame.image.load("hero/idle/I2.png"),pygame.image.load("hero/idle/I3.png"),pygame.image.load("hero/idle/I4.png"),pygame.image.load("hero/idle/I5.png"),pygame.image.load("hero/idle/I6.png"),pygame.image.load("hero/idle/I7.png"),pygame.image.load("hero/idle/I8.png")]
